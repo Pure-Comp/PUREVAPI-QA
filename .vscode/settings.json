@@ -1,0 +1,15 @@
+{
+    "jest.runMode": {
+        "type": "watch",
+        "coverage": false
+    },
+    "jest.outputConfig": {
+        "revealOn": "run",
+        "revealWithFocus": "test-results",
+        "clearOnRun": "none"
+    },
+    "todo-tree.tree.scanMode": "workspace only",
+    "todo-tree.tree.showCountsInTree": true,
+    "todo-tree.tree.showBadges": false,
+    "todo-tree.tree.disableCompactFolders": true
+}
